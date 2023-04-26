@@ -11,7 +11,6 @@
 </div>
 
 
-
 ## About The Project
 
 ![Product Name Screen Shot][product-screenshot]
